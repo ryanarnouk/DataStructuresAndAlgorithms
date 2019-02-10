@@ -1,6 +1,5 @@
 public class SelectionSort {
   void FindMin(int[] arr) {
-    // Problem in this code not executing properly
     int n = arr.length;
 
     for (int i = 0; i < n - 1; i++) {
