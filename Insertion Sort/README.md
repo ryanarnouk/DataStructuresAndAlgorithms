@@ -7,7 +7,7 @@
 
 Go through array comparing elements and replacing them if less than to sort through the array step by step 
 
-![A gif of selection sort](https://raw.githubusercontent.com/Azbo400/DataStructuresAndAlgorithms/master/Insertion%20Sort/InsertionSort.gif)
+![A gif of selection sort](https://raw.githubusercontent.com/Azbo400/DataStructuresAndAlgorithms/master/Insertion%20Sort/Insertion-sort-example.gif)
 
 ## Pseudo Code
 ```
