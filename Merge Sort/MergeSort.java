@@ -1,7 +1,9 @@
 public class MergeSort {
   public void Merge(int[] left, int[] right, int[] a, int leftlength, int rightlength) {
+    // merge the right and left arrays together
     int i = 0, j = 0, k = 0; 
 
+    // iterate through arrays placing elements in correct order
     while (i < leftlength && j < rightlength) {
       if(left[i] <= right[j]) {
         a[k++] = left[i++];
